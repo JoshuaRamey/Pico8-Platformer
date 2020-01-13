@@ -1,4 +1,4 @@
-# Pico8 Platformer
+# Pico-8 Platformer
 
 A simple platforming game made in Pico-8. Currently this game is a work in progress, so far I have accomplished:
 
