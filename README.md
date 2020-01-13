@@ -1,6 +1,6 @@
 # Pico-8 Platformer
 
-A simple platforming game made in Pico-8. Currently this game is a work in progress, so far I have accomplished:
+A simple platforming game made in [Pico-8](https://www.lexaloffle.com/pico-8.php). Currently this game is a work in progress, so far I have accomplished:
 
 1) Drawing a player object to the screen.
 2) Adding character movement (Running, jumping, sliding, falling).
