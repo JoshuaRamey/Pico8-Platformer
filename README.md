@@ -3,7 +3,7 @@
 A simple platforming game made in Pico-8. Currently this game is a work in progress, so far I have accomplished:
 
 1) Drawing a player object to the screen.
-2) dding character movement (Running, jumping, sliding, falling).
+2) Adding character movement (Running, jumping, sliding, falling).
 3) Animating the player object during movement (Running, jumping, and falling).
 4) Drawing map tiles to the screen.
 5) Adding gravity and friction.
