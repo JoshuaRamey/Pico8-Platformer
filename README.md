@@ -17,14 +17,18 @@ A simple platforming game made in Pico-8. Currently this game is a work in progr
 4) Improve movement and physics.
 5) Add enemy characters.
 
-##Controls:
+## Controls:
 
 • Use the left and right arrow keys to move
 
 • Press X to jump
 
-If you walk off the edge of the screen you will fall off the map. Currently there is no logic go restart in this scenario
+If you walk off the edge of the screen you will fall off the map. Currently there is no logic to restart in this scenario
 so you will need to refresh the page in order to restart.
 
-#### Play here
+# Play here
 https://joshuaramey.github.io/Pico8-Platformer/
+
+If you wish for the Pico-8 cartridge of this project, here it is
+
+![pico-8 cartridge](https://raw.githubusercontent.com/JoshuaRamey/Pico8-Platformer/master/platformer.p8.png)
