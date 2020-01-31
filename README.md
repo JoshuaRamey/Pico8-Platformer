@@ -10,12 +10,10 @@ A simple platforming game made in [Pico-8](https://www.lexaloffle.com/pico-8.php
 6) Collisions with map tiles.
 
 ### Todo:
-
-1) Add a camera to move and follow the player.
-2) Build out the full map.
-3) Improve map collision for different block types.
-4) Improve movement and physics.
-5) Add enemy characters.
+1) Build out the full map.
+2) Improve map collision for different block types.
+3) Improve movement and physics.
+4) Add enemy characters.
 
 ## Controls:
 
